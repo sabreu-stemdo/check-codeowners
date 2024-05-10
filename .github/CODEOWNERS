@@ -12,9 +12,9 @@
 # This should make it easy to add new rules without breaking existing ones.
 
 # OWNERS_TEAMS
-* @sabreu-stemdo @sebasnaa
+* @sabreu-stemdo @sebasnaa @sebasnaaorg
 
-/LZ-prd/* @sabreu-stemdo
+/LZ-prd/* @sabreu-stemdo @sebasnaaorg
 
 # COMPLIANCE_TEAMS
 .github/workflows @sabreu-stemdo
