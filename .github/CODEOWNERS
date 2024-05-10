@@ -14,7 +14,9 @@
 # OWNERS_TEAMS
 * @sabreu-stemdo @sebasnaa @sebasnaaorg
 
-/LZ-prd/ @sabreu-stemdo @sebasnaaorg
+LZ-dev/1/update.yml @sabreu-stemdo @sebasnaa
+
+LZ-prd/2/update.yml @sabreu-stemdo @sebasnaaorg
 
 # COMPLIANCE_TEAMS
 .github/workflows @sabreu-stemdo
